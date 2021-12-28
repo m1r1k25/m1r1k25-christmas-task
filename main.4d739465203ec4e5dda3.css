@@ -735,6 +735,7 @@ output {
 
 .favorites-container,
 .favorites-decorate {
+  position: relative;
   display: flex;
   flex-wrap: wrap;
   justify-content: flex-start;
