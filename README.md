@@ -1,12 +1,6 @@
-# Empty project template
-Empty project with configured webpack, typescript and es-lint
+# Christmas task
+Game "Christmas task"
 
-### Easy to use:
-+ Download project files
-+ Go to project root directory
-+ Run `npm i`
+## Deploy: https://m1r1k25-christmas-task.netlify.app/
 
-### Pre-defined npm scripts:
-+ `npm run build` -> build project to the _dist_ folder. Es-lint will be running before build.
-+ `npm run dev` -> run webpack dev server and open browser
-+ `npm run lint` -> run es-lint
+#### technical task: https://github.com/rolling-scopes-school/tasks/blob/master/tasks/christmas-task/christmas-task.md
